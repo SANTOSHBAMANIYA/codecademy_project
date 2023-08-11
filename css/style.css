@@ -1,0 +1,48 @@
+
+body{
+    background-color: black;
+}
+
+.center{
+    font-size: 50px;
+    font-family: Verdana;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+}
+
+
+.travel{
+    font-weight: 300;
+    font-size: 42px;
+    font-family: verdana;
+    color: white;
+    text-align: center;
+}
+
+
+.inter{
+    font-size: 21px;
+    font-family: verdana;
+    color: gray;
+   
+
+}
+
+.right{
+    font-size: 21px;
+    font-family: verdana;
+    color: gray;
+    text-align: right;
+}
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+
+video {
+    object-fit: contain;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
